@@ -38,7 +38,6 @@ int solve(){
 }
 
 int main(){
-    freopen("input.in", "r", stdin); freopen("Nightmare.out", "w", stdout);
     scanf("%d", &t);
     while (t--){
         scanf("%d%I64d", &n, &k);
